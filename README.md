@@ -30,38 +30,6 @@ The **Object Detection Platform** is a modular deep learning system that enables
 
 ## 🏗️ Pipeline Flow
 
-# 🚀 Object Detection Platform (YOLOv8)
-
-A scalable, end-to-end **object detection platform** built using **YOLOv8**, designed for both real-time and batch inference across diverse visual datasets. This project demonstrates **production-ready computer vision workflows**, including dataset preprocessing, model training, evaluation, and deployment-ready inference.
-
----
-
-## 📌 Overview
-
-The **Object Detection Platform** is a modular deep learning system that enables accurate detection and classification of objects from images using state-of-the-art YOLO architectures. The system is designed with **enterprise deployment considerations**, emphasizing scalability, performance, and maintainability.
-
-### Key Objectives
-- Build a robust object detection pipeline  
-- Support batch and real-time inference  
-- Ensure clean dataset handling and reproducible training  
-- Generate deployment-ready trained models  
-
----
-
-## ✨ Key Features
-
-- 🔍 YOLOv8-based object detection  
-- ⚡ GPU-accelerated training and inference  
-- 🧠 End-to-end ML pipeline (preprocessing → training → validation → prediction)  
-- 📊 Evaluation using Precision, Recall, and mAP metrics  
-- 🧩 Modular project structure for easy extension  
-- 🖼️ Visualized predictions with bounding boxes  
-- 🚀 Deployment-ready trained weights  
-
----
-
-## 🏗️ Pipeline Flow
-
 Raw Images
 ↓
 Dataset Preprocessing
