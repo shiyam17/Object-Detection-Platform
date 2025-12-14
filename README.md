@@ -28,8 +28,6 @@ The **Object Detection Platform** is a modular deep learning system that enables
 
 ---
 
-## 🏗️ Pipeline Flow
-
 Raw Images
 ↓
 Dataset Preprocessing
@@ -42,7 +40,6 @@ Validation & Evaluation
 ↓
 Inference & Visualization
 
----
 
 ## 📂 Project Structure
 
