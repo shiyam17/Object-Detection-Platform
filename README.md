@@ -27,19 +27,12 @@ The **Object Detection Platform** is a modular deep learning system that enables
 - 🚀 Deployment-ready trained weights  
 
 ---
-
-Raw Images
-↓
-Dataset Preprocessing
-↓
-YOLO Label Generation
-↓
-Model Training (YOLOv8)
-↓
-Validation & Evaluation
-↓
-Inference & Visualization
-
+## 🏗️ Pipeline Flow 
+↓ Dataset Preprocessing
+↓ YOLO Label Generation
+↓ Model Training (YOLOv8) 
+↓ Validation & Evaluation 
+↓ Inference & Visualization ---
 
 ## 📂 Project Structure
 
