@@ -104,5 +104,3 @@ python predict.py --conf 0.5
 
 runs/detect/predict/
 
-
-
