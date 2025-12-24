@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# YOLO / Training outputs
+runs/
+*.pt
+*.onnx
+
+# Dataset caches
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
